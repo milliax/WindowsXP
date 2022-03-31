@@ -18,13 +18,13 @@ After installing it, you would found it is empty even the windows activation ser
 
 ## Accessing the web
 I would recommend installing firefox on windows because the last supported version is way newer than chrome for XP. (Though they have all stopped publishing new version for a while) 
-Here is the version code and firefox ftp link[firefox 52.9.0esr](https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/)
-For fear that mozilla might delete the file one day, I saved it on [Github](await for me)
+Here is the version code and firefox ftp link [firefox 52.9.0esr](https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/)
+For fear that mozilla might delete the file one day, I saved it on [Github](https://github.com/milliax/WindowsXP/tree/master/softwares%2032bit/firefox%2052.9.0esr)
 
 ## Windows update
 
 The reason why I wanted to install a pure version of Windows is I am afraid that someone might poison the system. (as XP is so vulnerable)
 And, windows update is the most essential function. but the original ie6 is unable to open windows update. Installing IE8 became a big problem since Microsoft had already stopped publishing it.
 So I found two download link for two languages:
-* Traditional Chinese: [source](https://www.everybbs.com/show1.php?o=t&f=233&t=24) [backup](wait for me)
-* English: [source](https://archive.org/details/ie-8-windows-xp-x-86-enu) [backup](wait for me)
+* Traditional Chinese: [source](https://www.everybbs.com/show1.php?o=t&f=233&t=24) [backup](https://github.com/milliax/WindowsXP/blob/master/softwares%2032bit/IE8/IE8-WindowsXP-x86-CHT.exe?raw=true)
+* English: [source](https://archive.org/details/ie-8-windows-xp-x-86-enu) [backup](https://github.com/milliax/WindowsXP/blob/master/softwares%2032bit/IE8/IE8-WindowsXP-x86-ENU.exe?raw=true)
